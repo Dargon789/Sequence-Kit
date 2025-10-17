@@ -1,0 +1,11 @@
+version: 2.1
+executors:
+  my-executor:
+    docker:
+      - image: cimg/ruby:3.0.3-browsers
+
+jobs:
+  my-job:
+    executor: my-executor
+    steps:
+      - run: echo "Hello executor!"
