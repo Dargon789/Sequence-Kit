@@ -1,5 +1,32 @@
 # @0xsequence/connect
 
+## 5.3.23
+
+### Patch Changes
+
+- Allow disabling Add Funds button
+
+- Updated dependencies []:
+  - @0xsequence/hooks@5.3.23
+
+## 5.3.22
+
+### Patch Changes
+
+- Fix fetchTransaction receipt condition
+
+- Updated dependencies []:
+  - @0xsequence/hooks@5.3.22
+
+## 5.3.21
+
+### Patch Changes
+
+- Transaction receipt fetch improvement
+
+- Updated dependencies []:
+  - @0xsequence/hooks@5.3.21
+
 ## 5.3.20
 
 ### Patch Changes
