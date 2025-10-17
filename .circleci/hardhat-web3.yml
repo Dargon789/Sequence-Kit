@@ -17,6 +17,7 @@ jobs:
     steps:
       - checkout
       - run: |
+          # This job is intentionally a no-op. Add build, test, or deployment steps here as needed.
           echo "No operation"
 
 workflows:
